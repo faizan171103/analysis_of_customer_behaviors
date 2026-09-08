@@ -49,7 +49,7 @@ This project analyzes customer shopping behavior using **Python, SQL, and Power 
 * Highlight key patterns in purchasing behavior
 * Enable stakeholders to explore insights easily
 
-<img width="1672" height="930" alt="image" src="https://github.com/user-attachments/assets/6b904c28-8ad5-4291-9130-fc3f7a2094cd" />
+<img width="1672" height="930" alt="image" src="https://github.com/user-attachments/assets/74c8fe80-8b78-49f6-859e-e0e4bdbb9f31" />
 
 
 📄 File: `customer_behavior_dashboard.pbix`
